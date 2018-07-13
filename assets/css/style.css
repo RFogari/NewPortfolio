@@ -1,0 +1,44 @@
+.navbar-nav{
+    margin:auto;
+    align-content: center;
+}
+#contactmebox{
+    border-width: 1px;
+    border-color:darkgray;
+    border-style:solid;
+    font-size:18px;
+    text-align: center;
+    padding:20px;
+    margin-top:25px;
+}
+.contactheader{
+    margin:auto;
+}
+.titleheader {
+    text-align: center;
+    color:black;
+    font-size: 32px;
+    font-weight: bold;
+    
+}
+#portimage {
+    height: 250px;
+    width: 325px;
+}
+
+.contactoption{
+    padding:20px;
+}
+
+.footer{
+    margin-top:100px;
+}
+
+.biotext{
+    font-size: 18px;
+    text-align: start
+}
+.caption{
+    font-size:14px;
+    margin-top: 5px;
+}
